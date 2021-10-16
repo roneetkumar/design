@@ -1,0 +1,965 @@
+<svg width="1596" height="740" viewBox="0 0 1596 740" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>COLORS</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 1756 208)">
+<g id="COLORS">
+<g id="Blue">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 -53.6962)" fill="#5677FC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 -53.6962)" fill="#E7E9FD"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 -53.6962)" fill="#D0D9FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 -53.6962)" fill="#AFBFFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 -53.6962)" fill="#91A7FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 -53.6962)" fill="#738FFE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 -53.6962)" fill="#5677FC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 -30.8608)" fill="#4561F5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 -30.8608)" fill="#455EDE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 -30.8608)" fill="#3B50CE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 -30.8608)" fill="#2A36B1"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 -30.8608)" fill="#A6BAFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 -30.8608)" fill="#6889FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 -30.8608)" fill="#4D73FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 -30.8608)" fill="#4D69FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 -53.6962)" fill="#4E6CEF"/>
+</g>
+</g>
+<g id="Indigo">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-672.8 -53.6962)" fill="#3F51B5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-650 -53.6962)" fill="#E8EAF6"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-627.2 -53.6962)" fill="#C5CAE9"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-604.4 -53.6962)" fill="#9FA8DA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-581.6 -53.6962)" fill="#7986CB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-558.8 -53.6962)" fill="#5C6BC0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-536 -53.6962)" fill="#3F51B5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-513.2 -30.8608)" fill="#2240E9"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-672.8 -30.8608)" fill="#303F9F"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-650 -30.8608)" fill="#283593"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-627.2 -30.8608)" fill="#1A237E"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-604.4 -30.8608)" fill="#8C9EFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-581.6 -30.8608)" fill="#536DFE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-558.8 -30.8608)" fill="#3D5AFE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-536 -30.8608)" fill="#304FFE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-513.2 -53.6962)" fill="#3949AB"/>
+</g>
+</g>
+<g id="Deep Purple">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 -53.6962)" fill="#673AB7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 -53.6962)" fill="#EDE7F6"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 -53.6962)" fill="#D1C4E9"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 -53.6962)" fill="#B39DDB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 -53.6962)" fill="#9575CD"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 -53.6962)" fill="#7E57C2"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 -53.6962)" fill="#673AB7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 -30.8608)" fill="#5900D4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 -30.8608)" fill="#512DA8"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 -30.8608)" fill="#4527A0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 -30.8608)" fill="#311B92"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 -30.8608)" fill="#B388FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 -30.8608)" fill="#7C4DFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 -30.8608)" fill="#651FFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 -30.8608)" fill="#6200EA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 -53.6962)" fill="#5E35B1"/>
+</g>
+</g>
+<g id="Purple">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 -53.6962)" fill="#9C27B0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 -53.6962)" fill="#F3E5F5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 -53.6962)" fill="#E1BEE7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 -53.6962)" fill="#CE93D8"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 -53.6962)" fill="#BA68C8"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 -53.6962)" fill="#AB47BC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 -53.6962)" fill="#9C27B0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 -30.8608)" fill="#D500F9"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 -30.8608)" fill="#9C27B0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 -30.8608)" fill="#8E24AA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 -30.8608)" fill="#7B1FA2"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 -30.8608)" fill="#6A1B9A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 -30.8608)" fill="#4A148C"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 -30.8608)" fill="#EA80FC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 -30.8608)" fill="#E040FB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 -53.6962)" fill="#8E24AA"/>
+</g>
+</g>
+<g id="Pink">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 14.8101)" fill="#E91E63"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 14.8101)" fill="#FCE4EC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 14.8101)" fill="#F8BBD0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 14.8101)" fill="#F48FB1"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 14.8101)" fill="#F06292"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 14.8101)" fill="#EC407A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 14.8101)" fill="#E91E63"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 37.6456)" fill="#BB0F5C"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 37.6456)" fill="#C2185B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 37.6456)" fill="#AD1457"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 37.6456)" fill="#880E4F"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 37.6456)" fill="#FF80AB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 37.6456)" fill="#FF4081"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 37.6456)" fill="#F50057"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 37.6456)" fill="#C51162"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 14.8101)" fill="#D81B60"/>
+</g>
+</g>
+<g id="Red">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-672.8 14.8101)" fill="#E51C23"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-650 14.8101)" fill="#FDE0DC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-627.2 14.8101)" fill="#F9BDBB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-604.4 14.8101)" fill="#F69988"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-581.6 14.8101)" fill="#F36C60"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-558.8 14.8101)" fill="#E84E40"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-536 14.8101)" fill="#E51C23"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-513.2 37.6456)" fill="#E3336A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-672.8 37.6456)" fill="#DD191D"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-650 37.6456)" fill="#D01716"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-627.2 37.6456)" fill="#C41411"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-604.4 37.6456)" fill="#B0120A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-581.6 37.6456)" fill="#FF7997"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-558.8 37.6456)" fill="#FF5177"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-536 37.6456)" fill="#FF2D6F"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-513.2 14.8101)" fill="#E00032"/>
+</g>
+</g>
+<g id="Light Blue">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 14.8101)" fill="#03A9F4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 14.8101)" fill="#E1F5FE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 14.8101)" fill="#B3E5FC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 14.8101)" fill="#81D4FA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 14.8101)" fill="#4FC3F7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 14.8101)" fill="#29B6F6"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 14.8101)" fill="#03A9F4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 37.6456)" fill="#058ADB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 37.6456)" fill="#0288D1"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 37.6456)" fill="#0277BD"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 37.6456)" fill="#01579B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 37.6456)" fill="#80D8FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 37.6456)" fill="#40C4FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 37.6456)" fill="#00B0FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 37.6456)" fill="#0091EA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 14.8101)" fill="#039BE5"/>
+</g>
+</g>
+<g id="Cyan">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 14.8101)" fill="#00BCD4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 14.8101)" fill="#E0F7FA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 14.8101)" fill="#B2EBF2"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 14.8101)" fill="#80DEEA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 14.8101)" fill="#4DD0E1"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 14.8101)" fill="#26C6DA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 14.8101)" fill="#00BCD4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 37.6456)" fill="#11AEC6"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 37.6456)" fill="#0097A7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 37.6456)" fill="#00838F"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 37.6456)" fill="#006064"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 37.6456)" fill="#84FFFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 37.6456)" fill="#18FFFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 37.6456)" fill="#00E5FF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 37.6456)" fill="#00B8D4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 14.8101)" fill="#00ACC1"/>
+</g>
+</g>
+<g id="Lime">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 83.3165)" fill="#CDDC39"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 83.3165)" fill="#F9FBE7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 83.3165)" fill="#F0F4C3"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 83.3165)" fill="#E6EE9C"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 83.3165)" fill="#DCE775"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 83.3165)" fill="#D4E157"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 83.3165)" fill="#CDDC39"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 106.152)" fill="#A2D806"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 106.152)" fill="#AFB42B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 106.152)" fill="#9E9D24"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 106.152)" fill="#827717"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 106.152)" fill="#F4FF81"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 106.152)" fill="#EEFF41"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 106.152)" fill="#C6FF00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 106.152)" fill="#AEEA00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 83.3165)" fill="#C0CA33"/>
+</g>
+</g>
+<g id="Deep Orange">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 151.823)" fill="#FF5722"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 151.823)" fill="#FBE9E7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 151.823)" fill="#FFCCBC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 151.823)" fill="#FFAB91"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 151.823)" fill="#FF8A65"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 151.823)" fill="#FF7043"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 151.823)" fill="#FF5722"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 174.658)" fill="#CD2C04"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-262.4 174.658)" fill="#E64A19"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-239.6 174.658)" fill="#D84315"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-216.8 174.658)" fill="#BF360C"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-194 174.658)" fill="#FF9E80"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-171.2 174.658)" fill="#FF6E40"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-148.4 174.658)" fill="#FF3D00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-125.6 174.658)" fill="#DD2C00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-102.8 151.823)" fill="#F4511E"/>
+</g>
+</g>
+<g id="Light Green">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 83.3165)" fill="#8BC34A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 83.3165)" fill="#F1F8E9"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 83.3165)" fill="#DCEDC8"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 83.3165)" fill="#C5E1A5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 83.3165)" fill="#AED581"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 83.3165)" fill="#9CCC65"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 83.3165)" fill="#8BC34A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 106.152)" fill="#5ED015"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 106.152)" fill="#689F38"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 106.152)" fill="#558B2F"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 106.152)" fill="#33691E"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 106.152)" fill="#CCFF90"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 106.152)" fill="#B2FF59"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 106.152)" fill="#76FF03"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 106.152)" fill="#64DD17"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 83.3165)" fill="#7CB342"/>
+</g>
+</g>
+<g id="Orange">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 151.823)" fill="#FF9800"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 151.823)" fill="#FFF3E0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 151.823)" fill="#FFE0B2"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 151.823)" fill="#FFCC80"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 151.823)" fill="#FFB74D"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 151.823)" fill="#FFA726"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 151.823)" fill="#FF9800"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 174.658)" fill="#F16A04"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 174.658)" fill="#F57C00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 174.658)" fill="#EF6C00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 174.658)" fill="#E65100"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 174.658)" fill="#FFD180"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 174.658)" fill="#FFAB40"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 174.658)" fill="#FF9100"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 174.658)" fill="#FF6D00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 151.823)" fill="#FB8C00"/>
+</g>
+</g>
+<g id="Green">
+<g id="#03a9f4">
+<use xlink:href="#path0_fill" transform="translate(-672.8 83.3165)" fill="#259B24"/>
+</g>
+<g id="#e1f5fe">
+<use xlink:href="#path0_fill" transform="translate(-650 83.3165)" fill="#D0F8CE"/>
+</g>
+<g id="#b3e5fc">
+<use xlink:href="#path0_fill" transform="translate(-627.2 83.3165)" fill="#A3E9A4"/>
+</g>
+<g id="#81d4fa">
+<use xlink:href="#path0_fill" transform="translate(-604.4 83.3165)" fill="#72D572"/>
+</g>
+<g id="#4fc3f7">
+<use xlink:href="#path0_fill" transform="translate(-581.6 83.3165)" fill="#42BD41"/>
+</g>
+<g id="#29b6f6">
+<use xlink:href="#path0_fill" transform="translate(-558.8 83.3165)" fill="#2BAF2B"/>
+</g>
+<g id="#03a9f4">
+<use xlink:href="#path0_fill" transform="translate(-536 83.3165)" fill="#259B24"/>
+</g>
+<g id="#058ADB">
+<use xlink:href="#path0_fill" transform="translate(-513.2 106.152)" fill="#15B805"/>
+</g>
+<g id="#0288d1">
+<use xlink:href="#path0_fill" transform="translate(-672.8 106.152)" fill="#0A7E07"/>
+</g>
+<g id="#0277bd">
+<use xlink:href="#path0_fill" transform="translate(-650 106.152)" fill="#056F00"/>
+</g>
+<g id="#01579b">
+<use xlink:href="#path0_fill" transform="translate(-627.2 106.152)" fill="#0D5302"/>
+</g>
+<g id="#80d8ff">
+<use xlink:href="#path0_fill" transform="translate(-604.4 106.152)" fill="#A2F78D"/>
+</g>
+<g id="#40c4ff">
+<use xlink:href="#path0_fill" transform="translate(-581.6 106.152)" fill="#5AF158"/>
+</g>
+<g id="#00b0ff">
+<use xlink:href="#path0_fill" transform="translate(-558.8 106.152)" fill="#14E715"/>
+</g>
+<g id="#0091ea">
+<use xlink:href="#path0_fill" transform="translate(-536 106.152)" fill="#12C700"/>
+</g>
+<g id="#039be5">
+<use xlink:href="#path0_fill" transform="translate(-513.2 83.3165)" fill="#0A8F08"/>
+</g>
+</g>
+<g id="Amber">
+<g id="#03a9f4">
+<use xlink:href="#path0_fill" transform="translate(-672.8 151.823)" fill="#FFC107"/>
+</g>
+<g id="#e1f5fe">
+<use xlink:href="#path0_fill" transform="translate(-650 151.823)" fill="#FFF8E1"/>
+</g>
+<g id="#b3e5fc">
+<use xlink:href="#path0_fill" transform="translate(-627.2 151.823)" fill="#FFECB3"/>
+</g>
+<g id="#81d4fa">
+<use xlink:href="#path0_fill" transform="translate(-604.4 151.823)" fill="#FFE082"/>
+</g>
+<g id="#4fc3f7">
+<use xlink:href="#path0_fill" transform="translate(-581.6 151.823)" fill="#FFD54F"/>
+</g>
+<g id="#29b6f6">
+<use xlink:href="#path0_fill" transform="translate(-558.8 151.823)" fill="#FFCA28"/>
+</g>
+<g id="#03a9f4">
+<use xlink:href="#path0_fill" transform="translate(-536 151.823)" fill="#FFC107"/>
+</g>
+<g id="#058ADB">
+<use xlink:href="#path0_fill" transform="translate(-513.2 174.658)" fill="#F5A503"/>
+</g>
+<g id="#0288d1">
+<use xlink:href="#path0_fill" transform="translate(-672.8 174.658)" fill="#FFA000"/>
+</g>
+<g id="#0277bd">
+<use xlink:href="#path0_fill" transform="translate(-650 174.658)" fill="#FF8F00"/>
+</g>
+<g id="#01579b">
+<use xlink:href="#path0_fill" transform="translate(-627.2 174.658)" fill="#FF6F00"/>
+</g>
+<g id="#80d8ff">
+<use xlink:href="#path0_fill" transform="translate(-604.4 174.658)" fill="#FFE57F"/>
+</g>
+<g id="#40c4ff">
+<use xlink:href="#path0_fill" transform="translate(-581.6 174.658)" fill="#FFD740"/>
+</g>
+<g id="#00b0ff">
+<use xlink:href="#path0_fill" transform="translate(-558.8 174.658)" fill="#FFC400"/>
+</g>
+<g id="#0091ea">
+<use xlink:href="#path0_fill" transform="translate(-536 174.658)" fill="#FFAB00"/>
+</g>
+<g id="#039be5">
+<use xlink:href="#path0_fill" transform="translate(-513.2 151.823)" fill="#FFB300"/>
+</g>
+</g>
+<g id="Teal">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 83.3165)" fill="#009688"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 83.3165)" fill="#E0F2F1"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 83.3165)" fill="#B2DFDB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 83.3165)" fill="#80CBC4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 83.3165)" fill="#4DB6AC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 83.3165)" fill="#26A69A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 83.3165)" fill="#009688"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 106.152)" fill="#0BB099"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 106.152)" fill="#00796B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 106.152)" fill="#00695C"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 106.152)" fill="#004D40"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 106.152)" fill="#A7FFEB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 106.152)" fill="#64FFDA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 106.152)" fill="#1DE9B6"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 106.152)" fill="#00BFA5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 83.3165)" fill="#00897B"/>
+</g>
+</g>
+<g id="Yellow">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 151.823)" fill="#FFEB3B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 151.823)" fill="#FFFDE7"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 151.823)" fill="#FFF9C4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 151.823)" fill="#FFF59D"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 151.823)" fill="#FFF176"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 151.823)" fill="#FFEE58"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 151.823)" fill="#FFEB3B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 174.658)" fill="#F2CC07"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 174.658)" fill="#FBC02D"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 174.658)" fill="#F9A825"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 174.658)" fill="#F57F17"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 174.658)" fill="#FFFF8D"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 174.658)" fill="#FFFF00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 174.658)" fill="#FFEA00"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 174.658)" fill="#FFD600"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 151.823)" fill="#FDD835"/>
+</g>
+</g>
+<g id="Brown">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 220.329)" fill="#795548"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 220.329)" fill="#EFEBE9"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 220.329)" fill="#D7CCC8"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 220.329)" fill="#BCAAA4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 220.329)" fill="#A1887F"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 220.329)" fill="#8D6E63"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 220.329)" fill="#795548"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 243.165)" fill="#9C807D"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-878 243.165)" fill="#5D4037"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-855.2 243.165)" fill="#4E342E"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-832.4 243.165)" fill="#3E2723"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-809.6 243.165)" fill="#CDB7B4"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-786.8 243.165)" fill="#C0A9A6"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-764 243.165)" fill="#B49B98"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-741.2 243.165)" fill="#A58A87"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-718.4 220.329)" fill="#6D4C41"/>
+</g>
+</g>
+<g id="Grey">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-672.8 220.329)" fill="#9E9E9E"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-650 220.329)" fill="#FAFAFA"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-627.2 220.329)" fill="#F5F5F5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-604.4 220.329)" fill="#EEEEEE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-581.6 220.329)" fill="#E0E0E0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-558.8 220.329)" fill="#BDBDBD"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-536 220.329)" fill="#9E9E9E"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-513.2 243.165)" fill="#E2E2E2"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-672.8 243.165)" fill="#616161"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-650 243.165)" fill="#424242"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-627.2 243.165)" fill="#212121"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-604.4 243.165)"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-581.6 243.165)" fill="#FFFFFF"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-558.8 243.165)" fill="#F5F5F5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-536 243.165)" fill="#E8E8E8"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-513.2 220.329)" fill="#757575"/>
+</g>
+</g>
+<g id="Blue Grey">
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 220.329)" fill="#607D8B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 220.329)" fill="#ECEFF1"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 220.329)" fill="#CFD8DC"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 220.329)" fill="#B0BEC5"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 220.329)" fill="#90A4AE"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 220.329)" fill="#78909C"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 220.329)" fill="#607D8B"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 243.165)" fill="#B0C4CD"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-467.6 243.165)" fill="#455A64"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-444.8 243.165)" fill="#37474F"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-422 243.165)" fill="#263238"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-399.2 243.165)" fill="#1A252A"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-376.4 243.165)" fill="#F3F7F9"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-353.6 243.165)" fill="#DBE6EB"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-330.8 243.165)" fill="#C8D8E0"/>
+</g>
+<g id="Color">
+<use xlink:href="#path0_fill" transform="translate(-308 220.329)" fill="#546E7A"/>
+</g>
+</g>
+<g id="Colors">
+<use xlink:href="#path1_fill" transform="translate(-878 -107)" fill="#000000" fill-opacity="0.3"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 22.8 0L 22.8 22.8354L 0 22.8354L 0 0Z"/>
+<path id="path1_fill" d="M 13.3203 15.0371C 13.127 16.6914 12.5146 17.9697 11.4834 18.8721C 10.4593 19.7673 9.09505 20.2148 7.39062 20.2148C 5.54297 20.2148 4.06055 19.5524 2.94336 18.2275C 1.83333 16.9027 1.27832 15.1302 1.27832 12.9102L 1.27832 11.4062C 1.27832 9.95247 1.53613 8.67415 2.05176 7.57129C 2.57454 6.46842 3.31217 5.62337 4.26465 5.03613C 5.21712 4.44173 6.31999 4.14453 7.57324 4.14453C 9.2347 4.14453 10.5667 4.61003 11.5693 5.54102C 12.5719 6.46484 13.1556 7.74675 13.3203 9.38672L 11.2471 9.38672C 11.068 8.14062 10.6777 7.23828 10.0762 6.67969C 9.48177 6.12109 8.64746 5.8418 7.57324 5.8418C 6.25553 5.8418 5.2207 6.32878 4.46875 7.30273C 3.72396 8.27669 3.35156 9.66244 3.35156 11.46L 3.35156 12.9746C 3.35156 14.6719 3.70605 16.0218 4.41504 17.0244C 5.12402 18.027 6.11589 18.5283 7.39062 18.5283C 8.53646 18.5283 9.41374 18.2705 10.0225 17.7549C 10.6383 17.2321 11.0465 16.3262 11.2471 15.0371L 13.3203 15.0371ZM 15.3076 14.0811C 15.3076 12.9424 15.5296 11.9183 15.9736 11.0088C 16.4248 10.0993 17.0479 9.39746 17.8428 8.90332C 18.6449 8.40918 19.5579 8.16211 20.582 8.16211C 22.1647 8.16211 23.443 8.70996 24.417 9.80566C 25.3981 10.9014 25.8887 12.3587 25.8887 14.1777L 25.8887 14.3174C 25.8887 15.4489 25.6702 16.4658 25.2334 17.3682C 24.8037 18.2633 24.1842 18.9616 23.375 19.4629C 22.5729 19.9642 21.6491 20.2148 20.6035 20.2148C 19.028 20.2148 17.7497 19.667 16.7686 18.5713C 15.7946 17.4756 15.3076 16.0254 15.3076 14.2207L 15.3076 14.0811ZM 17.3057 14.3174C 17.3057 15.6064 17.6029 16.6413 18.1973 17.4219C 18.7988 18.2025 19.6009 18.5928 20.6035 18.5928C 21.6133 18.5928 22.4154 18.1989 23.0098 17.4111C 23.6042 16.6162 23.9014 15.5062 23.9014 14.0811C 23.9014 12.8063 23.597 11.7751 22.9883 10.9873C 22.3867 10.1924 21.5846 9.79492 20.582 9.79492C 19.6009 9.79492 18.8096 10.1852 18.208 10.9658C 17.6064 11.7464 17.3057 12.8636 17.3057 14.3174ZM 30.54 20L 28.5527 20L 28.5527 3.5L 30.54 3.5L 30.54 20ZM 33.2041 14.0811C 33.2041 12.9424 33.4261 11.9183 33.8701 11.0088C 34.3213 10.0993 34.9443 9.39746 35.7393 8.90332C 36.5413 8.40918 37.4544 8.16211 38.4785 8.16211C 40.0612 8.16211 41.3395 8.70996 42.3135 9.80566C 43.2946 10.9014 43.7852 12.3587 43.7852 14.1777L 43.7852 14.3174C 43.7852 15.4489 43.5667 16.4658 43.1299 17.3682C 42.7002 18.2633 42.0807 18.9616 41.2715 19.4629C 40.4694 19.9642 39.5456 20.2148 38.5 20.2148C 36.9245 20.2148 35.6462 19.667 34.665 18.5713C 33.6911 17.4756 33.2041 16.0254 33.2041 14.2207L 33.2041 14.0811ZM 35.2021 14.3174C 35.2021 15.6064 35.4993 16.6413 36.0938 17.4219C 36.6953 18.2025 37.4974 18.5928 38.5 18.5928C 39.5098 18.5928 40.3118 18.1989 40.9062 17.4111C 41.5007 16.6162 41.7979 15.5062 41.7979 14.0811C 41.7979 12.8063 41.4935 11.7751 40.8848 10.9873C 40.2832 10.1924 39.4811 9.79492 38.4785 9.79492C 37.4974 9.79492 36.7061 10.1852 36.1045 10.9658C 35.5029 11.7464 35.2021 12.8636 35.2021 14.3174ZM 51.8955 10.1602C 51.5947 10.11 51.2689 10.085 50.918 10.085C 49.6146 10.085 48.7301 10.64 48.2646 11.75L 48.2646 20L 46.2773 20L 46.2773 8.37695L 48.2109 8.37695L 48.2432 9.71973C 48.8949 8.68132 49.8187 8.16211 51.0146 8.16211C 51.4014 8.16211 51.695 8.21224 51.8955 8.3125L 51.8955 10.1602ZM 60.5 16.917C 60.5 16.3799 60.2959 15.9645 59.8877 15.6709C 59.4867 15.3701 58.7812 15.1123 57.7715 14.8975C 56.7689 14.6826 55.9704 14.4248 55.376 14.124C 54.7887 13.8232 54.3519 13.4652 54.0654 13.0498C 53.7861 12.6344 53.6465 12.1403 53.6465 11.5674C 53.6465 10.6149 54.0475 9.80924 54.8496 9.15039C 55.6589 8.49154 56.6901 8.16211 57.9434 8.16211C 59.2611 8.16211 60.3281 8.50228 61.1445 9.18262C 61.9681 9.86296 62.3799 10.7331 62.3799 11.793L 60.3818 11.793C 60.3818 11.2487 60.1491 10.7796 59.6836 10.3857C 59.2253 9.99186 58.6452 9.79492 57.9434 9.79492C 57.2201 9.79492 56.6543 9.95247 56.2461 10.2676C 55.8379 10.5827 55.6338 10.9945 55.6338 11.5029C 55.6338 11.9827 55.8236 12.3444 56.2031 12.5879C 56.5827 12.8314 57.2666 13.0641 58.2549 13.2861C 59.2503 13.5081 60.056 13.7731 60.6719 14.0811C 61.2878 14.389 61.7425 14.7614 62.0361 15.1982C 62.3369 15.6279 62.4873 16.1543 62.4873 16.7773C 62.4873 17.8158 62.0719 18.6501 61.2412 19.2803C 60.4105 19.9033 59.3327 20.2148 58.0078 20.2148C 57.0768 20.2148 56.2533 20.0501 55.5371 19.7207C 54.821 19.3913 54.2588 18.9329 53.8506 18.3457C 53.4495 17.7513 53.249 17.1104 53.249 16.4229L 55.2363 16.4229C 55.2721 17.0889 55.5371 17.6188 56.0312 18.0127C 56.5326 18.3994 57.1914 18.5928 58.0078 18.5928C 58.7598 18.5928 59.3613 18.4424 59.8125 18.1416C 60.2708 17.8337 60.5 17.4255 60.5 16.917Z"/>
+</defs>
+</svg>
